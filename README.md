@@ -1,5 +1,4 @@
 Este repositório foi criado para a realização da atividade da disciplina de UDWmJ.
-Funcionalidade
 O programa foi desenvolvido em JavaScript e tem como objetivo receber o nome e a idade do usuário.
 Após receber essas informações, o programa exibe uma mensagem de apresentação e verifica se a pessoa é maior ou menor de idade.
 Funcionamento
